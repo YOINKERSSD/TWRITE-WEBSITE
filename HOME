@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Web Template</title>
+    <link rel="stylesheet" href="twrite.css">
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University-of-Cebu-Logo.jpg/1200px-University-of-Cebu-Logo.jpg" type="image/x-icon">
+
+</head>
+<body>
+   
+   <div class="wrapper">
+       <nav>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University-of-Cebu-Logo.jpg/640px-University-of-Cebu-Logo.jpg" class="img" alt="logo" margin:> 
+          <ul>
+              <li><a href="home.html">HOME</a></li>
+              
+              <div class="tagak">
+              <li><a href="about-uc.html">ABOUT UC</a></li>
+              <div class="tagak2">
+                    <a  id="campus" class="w" href="campus.html">Campus</a>
+                    <a  id="history" class="w" href="history.html">History</a>
+                    <a id="Mission" class="w" href="Mission.html">Mission&Vision</a>
+                    <a id="Goals" class="w" href="Goals.html">Goals& Values</a>
+              </div>
+            </div>
+            <div class="drop">
+              <li><a id="acads" href="Academics.html">ACADEMICS</a></li>
+                    <div class="down">
+                    <a id="basic" class="w" href="Basic.html">Basic Education</a>
+                    <a id="college" class="w" href="Colleges.html">Colleges</a>
+                    <a id="E" class="w" href="Et.html">ETTEAP</a>
+                    <a id="test" class="w" href="tesda.html">Tesda/Short Courses</a>
+                    <a id="graduate" class="w" href="graduate.html">Graduate School</a>
+                    </div>
+              </div>
+              <li><a href="Admissions.html">ADMISSIONS</a></li>
+              <li><a href="Students.html">STUDENTS</a></li>
+              <li><a href="Contact.html">CONTACT US</a></li>
+          </ul>
+       </nav>
+       <div class="Body">
+            <p class="P">Welcome to University of Cebu</p>
+            <p class="p">Here in University Of Cebu, we are dedicated to encourage a community of learners
+                         who are passionate, curious and prepared to face the challenges of tommorow. University Of Cebu
+                         has a rich history of academic excellence, character development, and commitment to nurturing well-rounded individuals.</p>
+       </div>
+      
+     
+   <footer>
+   <showcase>
+       <div id="courses">    
+                <h1 id="wow2">University Of Cebu</h1>
+                <p id="wow">Main Office</p>
+                <p>Phone: (032)255-7777</p>
+                <p id="wow3">Registar</p>
+                <p>Phone: (032) 2539434
+                   <br>Phone: 255-7777 
+                  <br> local: 4167
+                </p><br>
+                <p>Email: main.collegeregistrar@uc.edu.ph</p>
+                <p>Sanciangko St, Cebu City, 6000 Cebu</p>
+        </div>
+        <div id="second">
+            <h1 id="header">About UC</h1>
+            <p id="wl">UniversityofCebu.net is a UC Online Community Site. All articles and photos publish on this site are those of the writers and no intent to violate the copyright law, this is only for promotion.
+
+                For query/question about school university, please click contact us!</p>
+        </div>
+   </showcase>
+</footer>
+   
+</body>
+</html>
